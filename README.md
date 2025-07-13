@@ -102,12 +102,13 @@ Watch the full demo here: \[YouTube Demo Video Link – https://youtu.be/nCRDRpL
 
 ## 🖼 Screenshots
 
-| Feature         | Screenshot                   |
-| --------------- | ---------------------------- |
-| Summary View    | ![](F:\Smart ai-assistant\assets\Screenshot 2025-07-13 221516.png)    |
-| Chat Interface  | ![](F:\Smart ai-assistant\assets\Screenshot 2025-07-13 221559.png)    |
-| Quiz Evaluation | ![](F:\Smart ai-assistant\assets\Screenshot 2025-07-13 221609.png) 
-                  |    (F:\Smart ai-assistant\assets\Screenshot 2025-07-13 223414.png)
+## 🖼 Screenshots
+
+| Feature         | Screenshot |
+|----------------|------------|
+| Summary View    | ![](assets/Screenshot-2025-07-13-221516.png) |
+| Chat Interface  | ![](assets/Screenshot-2025-07-13-221559.png) |
+| Quiz Evaluation | ![](assets/Screenshot-2025-07-13-221609.png) |
 
 
 ## 📂 Folder Structure
